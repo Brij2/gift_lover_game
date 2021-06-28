@@ -62,7 +62,7 @@ void draw()
                     printf(" ");
             }
             else if(i==pi && j==pj)
-                    printf("😍");
+                    printf("🤩");
             else if(i==oi && j==oj)
                   {  printf("🔥");         
                    }  
