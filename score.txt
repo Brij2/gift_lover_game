@@ -1,0 +1,4 @@
+Brijesh,1500
+Pratham,1800
+Sarvari,1950
+Akshata,1950
